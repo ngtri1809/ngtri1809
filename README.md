@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **ngtri1809/ngtri1809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -51,17 +50,17 @@ I’ve interned as a **Backend Developer** and **Software Developer**, worked in
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=flat-square\&logo=fastapi\&logoColor=white)
 
+### AI / Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square\&logo=chainlink\&logoColor=white)
+
 ### Databases & Caching
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
-
-### Messaging & Realtime
-
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square\&logo=apachekafka\&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square\&logo=rabbitmq\&logoColor=white)
 
 ### Cloud & DevOps
 
@@ -118,3 +117,4 @@ I’ve interned as a **Backend Developer** and **Software Developer**, worked in
 ---
 
 ⭐ *Always learning, always building. Feel free to explore my repositories!*
+
