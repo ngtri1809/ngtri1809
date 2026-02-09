@@ -110,9 +110,9 @@ I’ve interned as a **Backend Developer** and **Software Developer**, worked in
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *(add link)*
+* 💼 LinkedIn: [tringuyen](https://www.linkedin.com/in/tri-nguyen-4b94b2249/)
 * 📧 Email: [ngtri1809@gmail.com](mailto:ngtri1809@gmail.com)
-* 🌐 Portfolio: *(optional)*
+* 🌐 Portfolio: personal website (ngtri1809.github.io)
 
 ---
 
