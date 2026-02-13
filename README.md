@@ -89,32 +89,5 @@ I’ve interned as a **Backend Developer** and **Software Developer**, worked in
 
 ---
 
-## 📌 Projects
-
-### 🧠 AIrChat – Health AI Agent
-
-* AI‑powered conversational agent for health‑related queries
-* **Tech:** LangChain, FastAPI, React, OpenAI / Gemini APIs
-
-### 📈 PriceScout – AI Price Forecasting App
-
-* Time‑series price prediction and analytics platform
-* **Tech:** Python, Prophet, AWS
-
-### 🎟️ Event Management Platform
-
-* Full‑stack web app for event creation & management
-* **Tech:** React, Node.js, AWS
-
----
-
-## 📫 Connect With Me
-
-* 💼 LinkedIn: [tringuyen](https://www.linkedin.com/in/tri-nguyen-4b94b2249/)
-* 📧 Email: [ngtri1809@gmail.com](mailto:ngtri1809@gmail.com)
-* 🌐 Portfolio: [personal website](ngtri1809.github.io)
-
----
-
 ⭐ *Always learning, always building. Feel free to explore my repositories!*
 
