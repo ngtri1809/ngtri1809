@@ -68,26 +68,4 @@ I’ve interned as a **Backend Developer** and **Software Developer**, worked in
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square\&logo=googlecloud\&logoColor=white)
 
----
-
-## 💼 Experience
-
-### Backend Developer Intern — National Archive Centre 2
-
-**May 2024 – Jul 2024**
-
-* Built and maintained **RESTful APIs** for internal systems
-* Designed and optimized **MySQL schemas and queries**
-* Worked in **Agile/Scrum** with cross‑functional teams
-
-### Software Developer Intern — SJSU Software & Computer Engineering Society
-
-**Aug 2024 – Present**
-
-* Developed **real‑time chat features** using NestJS & MongoDB
-* Designed backend services with scalability and maintainability in mind
-
----
-
-⭐ *Always learning, always building. Feel free to explore my repositories!*
 
